@@ -39,3 +39,12 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+### Using Laudspeaker
+
+To use this app with laudspeaker you will need to update the app with your laudspeaker api key.
+
+Go to index.js under src/components/HomepageFeatures/ and update the api key there
+
+Then go to the journey builder in Laudspeaker and create the journey you want. After starting the webapp and the journey the modal should appear.
