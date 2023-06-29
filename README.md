@@ -45,6 +45,6 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 To use this app with laudspeaker you will need to update the app with your laudspeaker api key.
 
-Go to index.js under src/components/HomepageFeatures/ and update the api key there
+Go to `index.js` under `src/components/HomepageFeatures/` and update the api key there
 
 Then go to the journey builder in Laudspeaker and create the journey you want. After starting the webapp and the journey the modal should appear.
