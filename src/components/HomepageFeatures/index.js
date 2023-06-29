@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 import laudspeaker from '@laudspeaker/laudspeaker-js'
 
+//example api key
 laudspeaker.init('fWaILo0kBpN3TKGmwNm2qq7nNFlstBUZA2WDVRjS', { apiHost: 'https://api.laudspeaker.com' });
 //laudspeaker.init('K7ersuPcKQch874KAw1iCfC4h2AHkpylTLyS7Zbi', { apiHost: 'https://staging-app.laudspeaker.com/api' });
 
